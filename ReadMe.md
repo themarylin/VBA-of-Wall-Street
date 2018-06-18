@@ -12,4 +12,4 @@ You can download the resource files provided in the "Resources" directory, impor
 Mary Lin
 
 ## Example of results
-![picture](../Output/result_snip.jpg)
+![picture](https://github.com/themarylin90/VBA-of-Wall-Street/blob/master/Output/result_snip.JPG)
