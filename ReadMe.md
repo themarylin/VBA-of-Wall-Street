@@ -9,10 +9,4 @@ You can download the resource files provided in the "Resources" directory, impor
 
 ## Authors
 
-* ** Mary Lin ** *
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Mary Lin
