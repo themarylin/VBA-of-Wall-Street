@@ -10,3 +10,6 @@ You can download the resource files provided in the "Resources" directory, impor
 ## Authors
 
 Mary Lin
+
+## Example of results
+![picture](../Output/result_snip.jpg)
