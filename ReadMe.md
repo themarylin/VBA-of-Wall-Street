@@ -1,7 +1,7 @@
 # VBA of Wall Street
 
-This project demonstrates my knowledge of VBA, analyzing stock ticker price changes and trends. 
-It utilizes for loops, if..then statements, and includes detailed documentation of the program. 
+This project demonstrates my knowledge of VBA, and how I automated the analysis of ticker stock price changes and trends.
+It utilizes for loops, if..then statements, and includes detailed documentation of the program.
 
 ## Getting Started
 
